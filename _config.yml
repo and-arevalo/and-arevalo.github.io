@@ -1,0 +1,13 @@
+title: Aprendiendo cosas nuevas
+email: and.arevalo.m@gmail.com
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus fringilla sapien ac enim aliquam sodales
+baseurl: ""
+url: "and-arevalo.github.io"
+github_username: and-arevalo
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
